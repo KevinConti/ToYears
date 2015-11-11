@@ -1,0 +1,7 @@
+IterativeDevelopment
+
+Properly document
+Setup from command line
+Setup output to say "Not buying this item will say x years, y months, and d days" - as necessary
+Add GUI 
+Add more variables
